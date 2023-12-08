@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kandle/static/css/main.b431d6fe.css",
+    "main.js": "/kandle/static/js/main.e7440bbf.js",
+    "static/media/mark.png": "/kandle/static/media/mark.90de0f36942114a715ba.png",
+    "static/media/vector1.png": "/kandle/static/media/vector1.b260eef062fffcec0652.png",
+    "static/media/boy.png": "/kandle/static/media/boy.5d89bf663cd64a2f0e9f.png",
+    "index.html": "/kandle/index.html",
+    "static/media/both-arrow.svg": "/kandle/static/media/both-arrow.3556a59031fd037729c10535098a65b9.svg",
+    "main.b431d6fe.css.map": "/kandle/static/css/main.b431d6fe.css.map",
+    "main.e7440bbf.js.map": "/kandle/static/js/main.e7440bbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b431d6fe.css",
+    "static/js/main.e7440bbf.js"
+  ]
+}
